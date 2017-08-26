@@ -1,4 +1,4 @@
-# Pratt Design Technology
+# Parsons Core Studio Typography
 # Fall 2017
 
-Site: jarrettfuller.com/tech
+Site: jarrettfuller.com/type
