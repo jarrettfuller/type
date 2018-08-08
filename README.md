@@ -1,4 +1,4 @@
 # Parsons Core Studio Typography
-# Fall 2017
+# Fall 2018
 
 Site: jarrettfuller.com/type
